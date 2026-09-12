@@ -64,10 +64,13 @@ Ensure the following are installed on the local machine:
 - Git
 
 ### Installation
-
 **Clone the repository:**
 
 ```bash
+git clone https://github.com/arshadullasait/churn.git
+cd churn
+
+
 
 ```
 Build and run the Docker containers:
