@@ -100,9 +100,9 @@ The Flask app is deployed as a Docker container and serves the predictions based
 
 1. Run the Flask App: The app can be run manually using Docker or automatically as part of the Airflow pipeline.
 2. Access the Web Interface: Navigate to http://localhost:5000 in the browser to access the prediction interface.
-
+   
 <div style="text-align: center;">
-  <img src="UI.png" alt="Pipeline" width="100%">
+  <img src="CloudChurn-Intelligence-Customer-Analytics-10-26-2026_07_05_PM.png" alt="CloudChurn Dashboard" width="100%">
 </div>
 
 ## 🌐 Using the REST API
